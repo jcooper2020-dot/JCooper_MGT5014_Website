@@ -7,7 +7,7 @@ name: Step 2, JC_Configure
 # This will run every time we JC_Configure-event-desc
 # Reference https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
-  workflow_dispatch:
+  workflow_JC_Configure:
   JC_Configure-event:
 
 # Reference https://docs.github.com/en/actions/security-guides/automatic-token-authentication
@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 jobs:
-  on_TBD-step-2-event:
+  on_JC_Configure:
     name: JC_Configure-event
 
     # We will only run this action when:
