@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# TBD-course-name
+JC_Pages
 
-_TBD-course-description_
+_JC My-Pages_
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -22,7 +22,7 @@ _TBD-course-description_
 
 <!--step0
 
-TBD-welcome-paragraph
+JC_welcome_Pages
 
 - **Who is this for**: TBD-audience.
 - **What you'll learn**: TBD-objective.
