@@ -54,13 +54,13 @@ endstep0-->
 <details id=1 open>
 <summary><h2>Step 1: TBD-step-1-JC_Pages</h2></summary>
 
-_Welcome to "TBD-course-name"! :wave:_
+_Welcome to "JC_Pages"! :wave:_
 
 TBD-step-1-information
 
-**What is _TBD-term-1_**: TBD-definition-1
+**What is _TBD-term-1_**: JC_Pages
 
-### :keyboard: Activity: TBD-step-1-name
+### :keyboard: Activity: step-1-JC_Pages
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. TBD-step-1-instructions.
@@ -78,13 +78,13 @@ TBD-step-1-information
 <details id=2>
 <summary><h2>Step 2: TBD-step-2-JC_Configure</h2></summary>
 
-_You did TBD-step-1-name! :tada:_
+_You did TBD-step-1-JC_Pages! :tada:_
 
 TBD-step-2-information
 
-**What is _TBD-term-2_**: TBD-definition-2
+**What is _TBD-term-2_**: JC_Configure
 
-### :keyboard: Activity: TBD-step-2-name
+### :keyboard: Activity: JC_Configure
 
 1. TBD-step-2-instructions.
 1. Wait about 20 seconds then refresh this page for the next step.
@@ -105,9 +105,9 @@ _Nice work finishing TBD-step-2-JC_Configure :sparkles:_
 
 TBD-step-3-information
 
-**What is _TBD-term-3_**: TBD-definition-3
+**What is _TBD-term-3_**: JC_Customize
 
-### :keyboard: Activity: TBD-step-3-name
+### :keyboard: Activity: JC_Customize
 
 1. TBD-step-3-instructions.
 1. Wait about 20 seconds then refresh this page for the next step.
@@ -128,9 +128,9 @@ _Nicely done TBD-step-3-name! :partying_face:_
 
 TBD-step-4-information
 
-**What is _TBD-term-4_**: TBD-definition-4
+**What is _TBD-term-4_**: JC_Blog
 
-### :keyboard: Activity: TBD-step-4-name
+### :keyboard: Activity: JC_Blog
 
 1. TBD-step-4-instructions.
 1. Wait about 20 seconds then refresh this page for the next step.
@@ -147,11 +147,11 @@ TBD-step-4-information
 <details id=5>
 <summary><h2>Step 5: JC_Merge pull request</h2></summary>
 
-_Almost there TBD-step-4-name! :heart:_
+_Almost there TBD-step-4-JC_Blog! :heart:_
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
-### :keyboard: Activity: Merge your pull request
+### :keyboard: Activity: JC_Merge pull request
 
 1. Click **Merge pull request**.
 1. Delete the branch `TBD-branch-name` (optional).
