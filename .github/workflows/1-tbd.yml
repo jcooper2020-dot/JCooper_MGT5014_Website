@@ -1,4 +1,4 @@
-name: Step 1, TBD-step-1-name
+name: Step 1, JC_Pages
 
 # This step triggers after TBD-step-1-event-desc
 # This step sets STEP to 2
@@ -8,7 +8,7 @@ name: Step 1, TBD-step-1-name
 # Reference https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
   workflow_dispatch:
-  TBD-step-1-event:
+  JC_Pages:
 
 # Reference https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   on_TBD-step-1-event:
-    name: On TBD-step-1-event
+    name: JC_Pages-event
 
     # We will only run this action when:
     # 1. This repository isn't the template repository
