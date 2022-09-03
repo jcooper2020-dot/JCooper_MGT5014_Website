@@ -52,7 +52,7 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: TBD-step-1-name</h2></summary>
+<summary><h2>Step 1: TBD-step-1-JC_Pages</h2></summary>
 
 _Welcome to "TBD-course-name"! :wave:_
 
@@ -76,7 +76,7 @@ TBD-step-1-information
 -->
 
 <details id=2>
-<summary><h2>Step 2: TBD-step-2-name</h2></summary>
+<summary><h2>Step 2: TBD-step-2-JC_Configure</h2></summary>
 
 _You did TBD-step-1-name! :tada:_
 
@@ -99,9 +99,9 @@ TBD-step-2-information
 -->
 
 <details id=3>
-<summary><h2>Step 3: TBD-step-3-name</h2></summary>
+<summary><h2>Step 3: TBD-step-3-JC_Customize</h2></summary>
 
-_Nice work finishing TBD-step-2-name :sparkles:_
+_Nice work finishing TBD-step-2-JC_Configure :sparkles:_
 
 TBD-step-3-information
 
@@ -122,7 +122,7 @@ TBD-step-3-information
 -->
 
 <details id=4>
-<summary><h2>Step 4: TBD-step-4-name</h2></summary>
+<summary><h2>Step 4: TBD-step-4-JC_Blog</h2></summary>
 
 _Nicely done TBD-step-3-name! :partying_face:_
 
@@ -145,7 +145,7 @@ TBD-step-4-information
 -->
 
 <details id=5>
-<summary><h2>Step 5: Merge your pull request</h2></summary>
+<summary><h2>Step 5: JC_Merge pull request</h2></summary>
 
 _Almost there TBD-step-4-name! :heart:_
 
