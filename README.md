@@ -124,7 +124,7 @@ TBD-step-3-information
 <details id=4>
 <summary><h2>Step 4: TBD-step-4-JC_Blog</h2></summary>
 
-_Nicely done TBD-step-3-name! :partying_face:_
+_Nicely done TBD-step-3-JC_Customize! :partying_face:_
 
 TBD-step-4-information
 
